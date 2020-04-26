@@ -10,4 +10,4 @@
 
 ## Projetos:
 
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
+* **Como criar uma Wordcloud em Python:** https://bit.ly/2Y7vgmC
