@@ -11,3 +11,4 @@
 ## Projetos:
 
 * **Como criar uma Wordcloud em Python:** https://bit.ly/2Y7vgmC
+* **Analisando os Dados do Airbnb - Buenos Aires:** https://bit.ly/2MBdsJg
